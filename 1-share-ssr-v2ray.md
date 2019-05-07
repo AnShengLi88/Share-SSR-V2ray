@@ -28,7 +28,7 @@
 | [Fress](https://a.freess.biz/#portfolio-preview)             | 时       | ✅        | ✅        |              |
 | [Fress-Easy](https://do.freess.today/)                       | 时       | ✅        | ✅        |              |
 | [我爱酸酸乳](http://52ss.fun/)                               | 周       | ✅        | ✅        |              |
-
+| [免费节点](https://free-ss.site/)                               | 周       | ✅        | ✅        |              |
 
 
 ### 免费上网账号
